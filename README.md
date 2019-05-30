@@ -1,2 +1,2 @@
 # web_service
-web services application using java spring boot framework
+REST APIs using java spring boot.
